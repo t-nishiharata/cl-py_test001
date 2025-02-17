@@ -1,0 +1,58 @@
+{
+  "tests": [
+    {
+      "name": "Test Add Function",
+      "setup": "pip install .",
+      "run": "python -m unittest test_assignment.TestAssignment.test_add",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Test Subtract Function",
+      "setup": "pip install .",
+      "run": "python -m unittest test_assignment.TestAssignment.test_subtract",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Test Multiply Function",
+      "setup": "pip install .",
+      "run": "python -m unittest test_assignment.TestAssignment.test_multiply",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Test Divide Function",
+      "setup": "pip install .",
+      "run": "python -m unittest test_assignment.TestAssignment.test_divide",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Test Is Even Function",
+      "setup": "pip install .",
+      "run": "python -m unittest test_assignment.TestAssignment.test_is_even",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Test Max Of Three Function",
+      "setup": "pip install .",
+      "run": "python -m unittest test_assignment.TestAssignment.test_max_of_three",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    }
+  ]
+}
